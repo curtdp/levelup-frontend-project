@@ -49,9 +49,7 @@
      z-index: 5000;
  }
 
- .border-box{
-     box-sizing: border-box;
- }
+ 
 
  .after-bg::after{
     content:"";
