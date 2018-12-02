@@ -98,7 +98,7 @@ let colors = {
 
   'blue-darkest': '#12283a',
   'blue-darker': '#1c3d5a',
-  'blue-dark': '#2779bd',
+  'blue-dark': '#0B1AEE',
   'blue': '#3490dc',
   'blue-light': '#6cb2eb',
   'blue-lighter': '#bcdefa',
@@ -241,7 +241,7 @@ module.exports = {
   | entirely.
   |
   | By default Tailwind uses the "rem" unit type for most measurements.
-  | This allows you to set a root font size which all other sizes are
+  | This allows you to set a root foborder-boxnt size which all other sizes are
   | then based on. That said, you are free to use whatever units you
   | prefer, be it rems, ems, pixels or other.
   |
